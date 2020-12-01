@@ -8,7 +8,7 @@
 modular and extendable web applications based on ASP.NET Core. It is built using the best and the most modern
 tools and languages (Visual Studio 2019, C# etc). Join our team!
 
-This is the ExtCore framework advanced sample accounting web application:
+This is the ExtCore framework advanced sample accounting web application, test commit:
 
 ![Advanced sample accounting web application](extcore_sample_accounting.png)
 
